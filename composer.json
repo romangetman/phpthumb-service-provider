@@ -11,7 +11,7 @@
     ],
     "require": {
         "silex/silex": "~1.0",
-        "weotch/phpthumb": "*"
+        "dannytrue/phpthumb": "dev-master"
     },
     "autoload": {
         "psr-0": { "fzerorubigd\\Silex": "src" }
